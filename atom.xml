@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Worgin知识库</title>
+  
+  <subtitle>Markdown自动渲染网站</subtitle>
+  <link href="https://www.worgin.de5.net/atom.xml" rel="self"/>
+  
+  <link href="https://www.worgin.de5.net/"/>
+  <updated>2025-12-05T15:46:08.143Z</updated>
+  <id>https://www.worgin.de5.net/</id>
+  
+  <author>
+    <name>worgin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://www.worgin.de5.net/2025/12/05/%E6%88%91%E7%9A%84%E7%AC%94%E8%AE%B0/"/>
+    <id>https://www.worgin.de5.net/2025/12/05/%E6%88%91%E7%9A%84%E7%AC%94%E8%AE%B0/</id>
+    <published>2025-12-05T15:45:38.465Z</published>
+    <updated>2025-12-05T15:46:08.143Z</updated>
+    
+    <content type="html"><![CDATA[<p>title: 玛丽莎进攻<br>date: 2025-12-5</p><p>玛丽莎进攻思路</p><ol><li>进攻<br>1.1绿冲起手<br>中远距离：绿冲中脚&#x2F;重拳+投技 or 下轻拳&#x2F;脚<br>中距离：绿冲下中拳 （压起身，得延迟出）<br>经常被截绿冲：中距离就绿冲罗马剑，近距离用绿冲下轻拳<br>近距离：绿冲投，绿冲下轻拳&#x2F;脚（+点投）<br>1.2无绿冲<br>站中拳tc变招：<br>-中拳tc+绿冲取消+下轻脚+下轻拳（不让对面抢招）<br>-中拳tc+绿冲取消+投<br>-中拳tc+绿冲取消+下轻脚+投<br>-中拳tc+od罗马剑（猜凹）<br>下中拳取消+投，or +中脚+打投择<br>前重脚变招：<br>-前重脚+中罗马剑（可以往后一步下中拳）<br>-前重脚+绿冲取消+指令投<br>-前重脚+绿冲取消+中脚&#x2F;重拳+打投择（中脚中拳可以延迟出打乱动）<br>跳入：<br>跳攻击：被防有利<br>超人拳：被防有利（可以穿波，sa都可以穿波）<br>1.2持续进攻：<br> 1.绿冲后的拳脚（全部加帧）<br> 2.加帧技后（蓄力罗马剑，超人拳，蓄力拳脚，站重拳tcA）<br> 3.跳入大中<br> 4.放倒后<br>2.差合<br>常用拳脚：下中拳，站重拳&#x2F;脚，前中拳<br>差合思路：保持距离，预判对手出招，快速反应</li></ol><p>蓄力5hp 6hk 236kk 4hp绿冲取消6hk两段 绿冲4hp绿冲取消2hpsa1</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;title: 玛丽莎进攻&lt;br&gt;date: 2025-12-5&lt;/p&gt;
+&lt;p&gt;玛丽莎进攻思路&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;进攻&lt;br&gt;1.1绿冲起手&lt;br&gt;中远距离：绿冲中脚&amp;#x2F;重拳+投技 or 下轻拳&amp;#x2F;脚&lt;br&gt;中距离：绿冲下中拳 （压起身，得延迟出）&lt;b</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我的第一篇文章</title>
+    <link href="https://www.worgin.de5.net/2025/12/05/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://www.worgin.de5.net/2025/12/05/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <published>2025-12-05T15:08:53.893Z</published>
+    <updated>2025-12-06T07:53:13.159Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="欢迎"><a href="#欢迎" class="headerlink" title="欢迎"></a>欢迎</h1><p>这是通过脚本自动创建的第一篇文章。<br>网站正在运行！<br>&lt; 用于测试SSH自动推送 –&gt;<br>&lt; 用于测试SSH自动推送 –&gt;</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;欢迎&quot;&gt;&lt;a href=&quot;#欢迎&quot; class=&quot;headerlink&quot; title=&quot;欢迎&quot;&gt;&lt;/a&gt;欢迎&lt;/h1&gt;&lt;p&gt;这是通过脚本自动创建的第一篇文章。&lt;br&gt;网站正在运行！&lt;br&gt;&amp;lt; 用于测试SSH自动推送 –&amp;gt;&lt;br&gt;&amp;lt; 用于测试SSH</summary>
+      
+    
+    
+    
+    <category term="技术" scheme="https://www.worgin.de5.net/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="Hexo" scheme="https://www.worgin.de5.net/tags/Hexo/"/>
+    
+    <category term="教程" scheme="https://www.worgin.de5.net/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://www.worgin.de5.net/2025/12/05/hello-world/"/>
+    <id>https://www.worgin.de5.net/2025/12/05/hello-world/</id>
+    <published>2025-12-05T15:02:24.638Z</published>
+    <updated>2025-12-05T15:02:24.638Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>示例文章</title>
+    <link href="https://www.worgin.de5.net/2024/01/01/%E7%A4%BA%E4%BE%8B%E6%96%87%E7%AB%A0/"/>
+    <id>https://www.worgin.de5.net/2024/01/01/%E7%A4%BA%E4%BE%8B%E6%96%87%E7%AB%A0/</id>
+    <published>2024-01-01T04:00:00.000Z</published>
+    <updated>2025-12-20T09:37:12.615Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="欢迎阅读示例文章"><a href="#欢迎阅读示例文章" class="headerlink" title="欢迎阅读示例文章"></a>欢迎阅读示例文章</h1><p>这是一篇上传到 <a href="http://www.worgin.de5.net/">worgin.de5.net</a> 的示例Markdown文章。</p><h2 id="功能特性"><a href="#功能特性" class="headerlink" title="功能特性"></a>功能特性</h2><ul><li>✅ Markdown自动渲染</li><li>✅ 代码高亮</li><li>✅ 响应式设计</li><li>✅ 支持图片上传</li></ul><h2 id="代码示例"><a href="#代码示例" class="headerlink" title="代码示例"></a>代码示例</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello, Worgin Knowledge Base!&quot;</span>)</span><br></pre></td></tr></table></figure><h2 id="表格展示"><a href="#表格展示" class="headerlink" title="表格展示"></a>表格展示</h2><table><thead><tr><th>功能</th><th>状态</th><th>描述</th></tr></thead><tbody><tr><td>Markdown</td><td>✅</td><td>支持标准Markdown语法</td></tr><tr><td>代码高亮</td><td>✅</td><td>支持多种编程语言</td></tr><tr><td>图片上传</td><td>✅</td><td>支持本地图片和网络图片</td></tr><tr><td>分类标签</td><td>✅</td><td>支持文章分类和标签</td></tr></tbody></table>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;欢迎阅读示例文章&quot;&gt;&lt;a href=&quot;#欢迎阅读示例文章&quot; class=&quot;headerlink&quot; title=&quot;欢迎阅读示例文章&quot;&gt;&lt;/a&gt;欢迎阅读示例文章&lt;/h1&gt;&lt;p&gt;这是一篇上传到 &lt;a href=&quot;http://www.worgin.de5.net/&quot;&gt;w</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
